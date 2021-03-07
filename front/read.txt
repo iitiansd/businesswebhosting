@@ -1,0 +1,5 @@
+to include navbar in every page so we go to views and change it nametemplates
+the create a folder partials :
+we cpy  whole navbar code in that in navbar.hbs in index.hbs we jst incude{{>navbar}}
+
+to know app.js this all changes we just set path
